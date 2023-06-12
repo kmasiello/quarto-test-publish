@@ -16,3 +16,5 @@ Quarto enables you to weave together content and executable code into a finished
 head(mtcars)
 ```
 
+## Publication Notes
+When writing manifest, specify the path to quarto, i.e., `rsconnect::writeManifest(quarto = "/Users/katie/.config/qvm/bin/quarto")`
